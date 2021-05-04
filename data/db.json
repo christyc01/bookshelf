@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "title": "Complete Esperanto",
+      "author": "Tim Owen",
+      "genre": "Languages",
+      "language": "English",
+      "pages": 320,
+      "rating": "",
+      "comment": "",
+      "id": 1
+    },
+    {
+      "title": "The World in Your Kitchen",
+      "author": "Troth Wells",
+      "genre": "Cooking",
+      "language": "English",
+      "pages": 176,
+      "rating": "",
+      "comment": "",
+      "id": 2
+    },
+    {
+      "title": "Teach the Bairns Vegetarian Cooking",
+      "author": "Liz Ashworth",
+      "genre": "Cooking",
+      "language": "English",
+      "pages": 128,
+      "rating": "",
+      "comment": "",
+      "id": 3
+    },
+    {
+      "title": "Arrowood",
+      "author": "Mick Finlay",
+      "genre": "Crime and Mystery",
+      "language": "Spanish",
+      "pages": 384,
+      "rating": "",
+      "comment": "",
+      "id": 4
+    },
+    {
+      "title": "La Hobito",
+      "author": "J R R Tolkein",
+      "genre": "Fantasy",
+      "language": "Esperanto",
+      "pages": 250,
+      "rating": "",
+      "comment": "",
+      "id": 5
+    },
+    {
+      "title": "Mise à nu",
+      "author": "Richard Castle",
+      "genre": "Crime and Mystery",
+      "language": "French",
+      "pages": 296,
+      "rating": "",
+      "comment": "",
+      "id": 6
+    },
+    {
+      "title": "Arsène Lupin: Gentleman cambrioleur",
+      "author": "Maurice Leblanc",
+      "genre": "Action and Adventure",
+      "language": "French",
+      "pages": 179,
+      "rating": "",
+      "comment": "",
+      "id": 7
+    }
+  ]
+}
